@@ -1,4 +1,4 @@
-# cracky.io USER — Kirka.io Userscript · Full Deobfuscation
+#  — Kirka.io Userscript · Full Deobfuscation
 
 > **Original script:** cracky.io (Kirka.io edition v0.5.1)  
 > **Deobfuscated by:** anonimbiri-IsBack, WASDW (deobfuscation)  
